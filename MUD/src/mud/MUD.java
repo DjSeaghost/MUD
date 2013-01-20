@@ -14,5 +14,6 @@ public class MUD {
 	 */
 	public static void main(String[] args) {
 		System.out.println("TESTING!!");
+		System.out.println("DUDE BRO!!");
 	}
 }

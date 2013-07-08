@@ -33,7 +33,7 @@ public class MUD
 			else if (command.equalsIgnoreCase("n")
 					|| command.equalsIgnoreCase("north"))
 			{
-				System.out.println("You fall over because you're drunk bitch");
+				System.out.println("The way is blocked...");
 			}
 			else
 			{
